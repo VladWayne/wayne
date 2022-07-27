@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://vladwayne.github.io/wayne/</id>
+    <title>VladWayne</title>
+    <updated>2022-07-27T11:00:28.564Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://vladwayne.github.io/wayne/"/>
+    <link rel="self" href="http://vladwayne.github.io/wayne/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://vladwayne.github.io/wayne/images/avatar.png</logo>
+    <icon>http://vladwayne.github.io/wayne/favicon.ico</icon>
+    <rights>All rights reserved 2022, VladWayne</rights>
+    <entry>
+        <title type="html"><![CDATA[每个人都是疯子]]></title>
+        <id>http://vladwayne.github.io/wayne/post/hello-gridea/</id>
+        <link href="http://vladwayne.github.io/wayne/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+    </entry>
+</feed>
